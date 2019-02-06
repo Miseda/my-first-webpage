@@ -2,6 +2,9 @@ h1 {
   color: blue;
   text align: centre;
 }
+body{
+  background-color: grey;
+}
 h2 {
   color: green;
   font-style: italic;
@@ -11,9 +14,6 @@ p {
 }
 ul  {
   line-height:  40px;
-}
-html{
-  background-color: purple;
 }
 h3{
   color: green;
